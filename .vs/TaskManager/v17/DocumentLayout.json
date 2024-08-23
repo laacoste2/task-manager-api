@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rafar\\OneDrive\\\u00C1rea de Trabalho\\vscode projects\\C#\\TaskManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25E81ACD-73F4-4F6E-A5E7-DF60A5999740}|TaskManager.csproj|c:\\users\\rafar\\onedrive\\\u00E1rea de trabalho\\vscode projects\\c#\\taskmanager\\controllers\\taskmanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E81ACD-73F4-4F6E-A5E7-DF60A5999740}|TaskManager.csproj|solutionrelative:controllers\\taskmanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E81ACD-73F4-4F6E-A5E7-DF60A5999740}|TaskManager.csproj|c:\\users\\rafar\\onedrive\\\u00E1rea de trabalho\\vscode projects\\c#\\taskmanager\\dtos\\posttaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E81ACD-73F4-4F6E-A5E7-DF60A5999740}|TaskManager.csproj|solutionrelative:dtos\\posttaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E81ACD-73F4-4F6E-A5E7-DF60A5999740}|TaskManager.csproj|c:\\users\\rafar\\onedrive\\\u00E1rea de trabalho\\vscode projects\\c#\\taskmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E81ACD-73F4-4F6E-A5E7-DF60A5999740}|TaskManager.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E81ACD-73F4-4F6E-A5E7-DF60A5999740}|TaskManager.csproj|c:\\users\\rafar\\onedrive\\\u00E1rea de trabalho\\vscode projects\\c#\\taskmanager\\context\\taskmanagercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E81ACD-73F4-4F6E-A5E7-DF60A5999740}|TaskManager.csproj|solutionrelative:context\\taskmanagercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E81ACD-73F4-4F6E-A5E7-DF60A5999740}|TaskManager.csproj|c:\\users\\rafar\\onedrive\\\u00E1rea de trabalho\\vscode projects\\c#\\taskmanager\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E81ACD-73F4-4F6E-A5E7-DF60A5999740}|TaskManager.csproj|solutionrelative:models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E81ACD-73F4-4F6E-A5E7-DF60A5999740}|TaskManager.csproj|c:\\users\\rafar\\onedrive\\\u00E1rea de trabalho\\vscode projects\\c#\\taskmanager\\dtos\\updatetaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E81ACD-73F4-4F6E-A5E7-DF60A5999740}|TaskManager.csproj|solutionrelative:dtos\\updatetaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E81ACD-73F4-4F6E-A5E7-DF60A5999740}|TaskManager.csproj|c:\\users\\rafar\\onedrive\\\u00E1rea de trabalho\\vscode projects\\c#\\taskmanager\\dtos\\puttaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E81ACD-73F4-4F6E-A5E7-DF60A5999740}|TaskManager.csproj|solutionrelative:dtos\\puttaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rafar\\OneDrive\\\u00C1rea de Trabalho\\vscode projects\\C#\\TaskManager\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\rafar\\OneDrive\\\u00C1rea de Trabalho\\vscode projects\\C#\\TaskManager\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T21:29:25.23Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskManagerController.cs",
+              "DocumentMoniker": "C:\\Users\\rafar\\OneDrive\\\u00C1rea de Trabalho\\vscode projects\\C#\\TaskManager\\Controllers\\TaskManagerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TaskManagerController.cs",
+              "ToolTip": "C:\\Users\\rafar\\OneDrive\\\u00C1rea de Trabalho\\vscode projects\\C#\\TaskManager\\Controllers\\TaskManagerController.cs",
+              "RelativeToolTip": "Controllers\\TaskManagerController.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAAAIMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T17:38:40.448Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskManagerContext.cs",
+              "DocumentMoniker": "C:\\Users\\rafar\\OneDrive\\\u00C1rea de Trabalho\\vscode projects\\C#\\TaskManager\\Context\\TaskManagerContext.cs",
+              "RelativeDocumentMoniker": "Context\\TaskManagerContext.cs",
+              "ToolTip": "C:\\Users\\rafar\\OneDrive\\\u00C1rea de Trabalho\\vscode projects\\C#\\TaskManager\\Context\\TaskManagerContext.cs",
+              "RelativeToolTip": "Context\\TaskManagerContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T21:32:42.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PostTaskDto.cs",
+              "DocumentMoniker": "C:\\Users\\rafar\\OneDrive\\\u00C1rea de Trabalho\\vscode projects\\C#\\TaskManager\\Dtos\\PostTaskDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\PostTaskDto.cs",
+              "ToolTip": "C:\\Users\\rafar\\OneDrive\\\u00C1rea de Trabalho\\vscode projects\\C#\\TaskManager\\Dtos\\PostTaskDto.cs",
+              "RelativeToolTip": "Dtos\\PostTaskDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T22:39:19.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\rafar\\OneDrive\\\u00C1rea de Trabalho\\vscode projects\\C#\\TaskManager\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "Models\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\rafar\\OneDrive\\\u00C1rea de Trabalho\\vscode projects\\C#\\TaskManager\\Models\\TaskItem.cs",
+              "RelativeToolTip": "Models\\TaskItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T21:30:09.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateTaskDto.cs",
+              "DocumentMoniker": "C:\\Users\\rafar\\OneDrive\\\u00C1rea de Trabalho\\vscode projects\\C#\\TaskManager\\Dtos\\UpdateTaskDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\UpdateTaskDto.cs",
+              "ToolTip": "C:\\Users\\rafar\\OneDrive\\\u00C1rea de Trabalho\\vscode projects\\C#\\TaskManager\\Dtos\\UpdateTaskDto.cs",
+              "RelativeToolTip": "Dtos\\UpdateTaskDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T17:59:35.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PutTaskDto.cs",
+              "DocumentMoniker": "C:\\Users\\rafar\\OneDrive\\\u00C1rea de Trabalho\\vscode projects\\C#\\TaskManager\\Dtos\\PutTaskDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\PutTaskDto.cs",
+              "ToolTip": "C:\\Users\\rafar\\OneDrive\\\u00C1rea de Trabalho\\vscode projects\\C#\\TaskManager\\Dtos\\PutTaskDto.cs",
+              "RelativeToolTip": "Dtos\\PutTaskDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T22:39:30.191Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
